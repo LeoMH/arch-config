@@ -31,3 +31,4 @@ openssh
 ttf-jetbrains-mono-nerd
 pamixer
 pavucontrol
+waybar

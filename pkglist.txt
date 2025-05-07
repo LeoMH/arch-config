@@ -7,7 +7,7 @@ git
 starship
 fzf
 fd
-nexcloud-client
+nextcloud-client
 btop
 okular
 eza
@@ -27,4 +27,3 @@ openssh
 ttf-jetbrains-mono-nerd
 pamixer
 pavucontrol
-
