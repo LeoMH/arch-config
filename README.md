@@ -32,3 +32,4 @@ ttf-jetbrains-mono-nerd
 pamixer
 pavucontrol
 waybar
+gnome-keyring
