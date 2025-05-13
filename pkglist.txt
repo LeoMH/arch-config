@@ -37,4 +37,4 @@ gdm
 swaybg
 libfido2
 man
-
+gnome-keyring
