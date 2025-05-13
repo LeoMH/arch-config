@@ -27,3 +27,14 @@ openssh
 ttf-jetbrains-mono-nerd
 pamixer
 pavucontrol
+waybar
+hyprland
+hyprpaper
+obsidian
+telegram-desktop
+nautilus
+gdm
+swaybg
+libfido2
+man
+
