@@ -27,3 +27,8 @@ openssh
 ttf-jetbrains-mono-nerd
 pamixer
 pavucontrol
+hyprland
+hyprlock
+hypridle
+hyprpaper
+ffmpeg
