@@ -38,3 +38,7 @@ swaybg
 libfido2
 man
 gnome-keyring
+ffmpeg
+git-delta
+hyprpolkitagent
+seahorse

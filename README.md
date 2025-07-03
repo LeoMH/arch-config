@@ -1,35 +1,47 @@
 # arch-config
 
-
 ## Packages
-neovim
-wget
-tmux
-alacritty
-fish
-git
-starship
-fzf
-fd
-nexcloud-client
-btop
-okular
-eza
-gimp
-make
-cmake
-wl-clipboard
-ripgrep
-python
-firefox
-thunderbird
-networkmanager
-network-manager-applet
-direnv
-bitwarden
-openssh
-ttf-jetbrains-mono-nerd
-pamixer
-pavucontrol
-waybar
-gnome-keyring
+- neovim
+- wget
+- tmux
+- alacritty
+- fish
+- git
+- starship
+- fzf
+- fd
+- nextcloud-client
+- btop
+- okular
+- eza
+- gimp
+- make
+- cmake
+- wl-clipboard
+- ripgrep
+- python
+- firefox
+- thunderbird
+- networkmanager
+- network-manager-applet
+- direnv
+- bitwarden
+- openssh
+- ttf-jetbrains-mono-nerd
+- pamixer
+- pavucontrol
+- waybar
+- hyprland
+- hyprpaper
+- obsidian
+- telegram-desktop
+- nautilus
+- gdm
+- swaybg
+- libfido2
+- man
+- gnome-keyring
+- ffmpeg
+- git-delta
+- hyprpolkitagent
+- seahorse
