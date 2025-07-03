@@ -42,3 +42,5 @@ ffmpeg
 git-delta
 hyprpolkitagent
 seahorse
+hyprlock
+hypridle
