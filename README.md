@@ -1,4 +1,14 @@
 # arch-config
+Clone the repo with
+```bash
+git clone https://github.com/LeoMH/arch-config.git
+```
+Install packages with
+```bash
+sudo pacman -S - < pkglist.txt
+```
+
+
 
 ## Packages
 - neovim
