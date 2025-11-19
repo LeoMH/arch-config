@@ -21,8 +21,14 @@ firefox
 thunderbird
 networkmanager
 network-manager-applet
+openconnect
+networkmanager-openconnect
+openvpn
+networkmanager-openvpn
 direnv
 bitwarden
+zathura
+signal-desktop
 openssh
 ttf-jetbrains-mono-nerd
 pamixer
@@ -44,3 +50,11 @@ hyprpolkitagent
 seahorse
 hyprlock
 hypridle
+wireplumber
+xdg-desktop-portal-hyprland
+inetutils
+nvtop
+expect
+python-poetry
+cliphist
+
