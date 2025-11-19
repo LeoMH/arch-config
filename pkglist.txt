@@ -57,4 +57,4 @@ nvtop
 expect
 python-poetry
 cliphist
-
+man
